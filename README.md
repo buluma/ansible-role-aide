@@ -4,7 +4,7 @@ Install and configure aide on your system.
 
 |GitHub|GitLab|Quality|Downloads|Version|
 |------|------|-------|---------|-------|
-|[![github](https://github.com/buluma/ansible-role-aide/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-aide/actions)|[![gitlab](https://gitlab.com/buluma/ansible-role-aide/badges/master/pipeline.svg)](https://gitlab.com/buluma/ansible-role-aide)|[![quality](https://img.shields.io/ansible/quality/44968)](https://galaxy.ansible.com/buluma/aide)|[![downloads](https://img.shields.io/ansible/role/d/44968)](https://galaxy.ansible.com/buluma/aide)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-aide.svg)](https://github.com/buluma/ansible-role-aide/releases/)|
+|[![github](https://github.com/buluma/ansible-role-aide/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-aide/actions)|[![gitlab](https://gitlab.com/buluma/ansible-role-aide/badges/master/pipeline.svg)](https://gitlab.com/buluma/ansible-role-aide)|[![quality](https://img.shields.io/ansible/quality/)](https://galaxy.ansible.com/buluma/aide)|[![downloads](https://img.shields.io/ansible/role/d/)](https://galaxy.ansible.com/buluma/aide)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-aide.svg)](https://github.com/buluma/ansible-role-aide/releases/)|
 
 ## [Example Playbook](#example-playbook)
 
@@ -29,13 +29,14 @@ The machine needs to be prepared. In CI this is done using `molecule/default/pre
   gather_facts: no
 
   roles:
-    - role: buluma.bootstrap
-    - role: buluma.cron
-    - role: buluma.postfix
+    - role: robertdebock.bootstrap
+    - role: robertdebock.cron
+    - role: robertdebock.postfix
       postfix_myhostname: "smtp.example.com"
       postfix_mydomain: "example.com"
       postfix_myorigin: "example.com"
 ```
+
 
 
 ## [Requirements](#requirements)
@@ -50,9 +51,11 @@ The following roles are used to prepare a system. You can prepare your system in
 |-------------|--------|--------|
 |[buluma.bootstrap](https://galaxy.ansible.com/buluma/bootstrap)|[![Build Status GitHub](https://github.com/buluma/ansible-role-bootstrap/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-bootstrap/actions)|[![Build Status GitLab ](https://gitlab.com/buluma/ansible-role-bootstrap/badges/master/pipeline.svg)](https://gitlab.com/buluma/ansible-role-bootstrap)|
 |[buluma.cron](https://galaxy.ansible.com/buluma/cron)|[![Build Status GitHub](https://github.com/buluma/ansible-role-cron/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-cron/actions)|[![Build Status GitLab ](https://gitlab.com/buluma/ansible-role-cron/badges/master/pipeline.svg)](https://gitlab.com/buluma/ansible-role-cron)|
-|[buluma.postfix](https://galaxy.ansible.com/buluma/postfix)|[![Build Status GitHub](https://github.com/buluma/ansible-role-postfix/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-postfix/actions)|[![Build Status GitLab ](https://gitlab.com/buluma/ansible-role-postfix/badges/master/pipeline.svg)](https://gitlab.com/buluma/ansible-role-postfix)|
+|[robertdebock.postfix](https://galaxy.ansible.com/buluma/robertdebock.postfix)|[![Build Status GitHub](https://github.com/buluma/robertdebock.postfix/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/robertdebock.postfix/actions)|[![Build Status GitLab ](https://gitlab.com/buluma/robertdebock.postfix/badges/master/pipeline.svg)](https://gitlab.com/buluma/robertdebock.postfix)|
 
 ## [Context](#context)
+
+This role is a part of many compatible roles. Have a look at [the documentation of these roles](https://buluma.nl/) for further information.
 
 Here is an overview of related roles:
 ![dependencies](https://raw.githubusercontent.com/buluma/ansible-role-aide/png/requirements.png "Dependencies")
@@ -89,3 +92,9 @@ Some roles can't run on a specific distribution or version. Here are some except
 If you find issues, please register them in [GitHub](https://github.com/buluma/ansible-role-aide/issues)
 
 ## [License](#license)
+
+Apache-2.0
+
+## [Author Information](#author-information)
+
+[Michael Buluma](https://buluma.co.ke/)
