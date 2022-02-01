@@ -4,7 +4,7 @@ Install and configure aide on your system.
 
 |GitHub|GitLab|Quality|Downloads|Version|
 |------|------|-------|---------|-------|
-|[![github](https://github.com/buluma/ansible-role-aide/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-aide/actions)|[![gitlab](https://gitlab.com/buluma/ansible-role-aide/badges/master/pipeline.svg)](https://gitlab.com/buluma/ansible-role-aide)|[![quality](https://img.shields.io/ansible/quality/)](https://galaxy.ansible.com/buluma/aide)|[![downloads](https://img.shields.io/ansible/role/d/)](https://galaxy.ansible.com/buluma/aide)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-aide.svg)](https://github.com/buluma/ansible-role-aide/releases/)|
+|[![github](https://github.com/buluma/ansible-role-aide/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-aide/actions)|[![pipeline status](https://gitlab.com/buluma/ansible-role-aide/badges/main/pipeline.svg)](https://gitlab.com/buluma/ansible-role-aide/-/commits/main)|[![quality](https://img.shields.io/ansible/quality/57839)](https://galaxy.ansible.com/buluma/aide)|[![downloads](https://img.shields.io/ansible/role/d/57839)](https://galaxy.ansible.com/buluma/aide)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-aide.svg)](https://github.com/buluma/ansible-role-aide/releases/)|
 
 ## [Example Playbook](#example-playbook)
 
@@ -49,8 +49,8 @@ The following roles are used to prepare a system. You can prepare your system in
 
 | Requirement | GitHub | GitLab |
 |-------------|--------|--------|
-|[buluma.bootstrap](https://galaxy.ansible.com/buluma/bootstrap)|[![Build Status GitHub](https://github.com/buluma/ansible-role-bootstrap/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-bootstrap/actions)|[![Build Status GitLab ](https://gitlab.com/buluma/ansible-role-bootstrap/badges/master/pipeline.svg)](https://gitlab.com/buluma/ansible-role-bootstrap)|
-|[buluma.cron](https://galaxy.ansible.com/buluma/cron)|[![Build Status GitHub](https://github.com/buluma/ansible-role-cron/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-cron/actions)|[![Build Status GitLab ](https://gitlab.com/buluma/ansible-role-cron/badges/master/pipeline.svg)](https://gitlab.com/buluma/ansible-role-cron)|
+|[buluma.bootstrap](https://galaxy.ansible.com/buluma/bootstrap)|[![Build Status GitHub](https://github.com/buluma/ansible-role-bootstrap/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-bootstrap/actions)|[![Build Status GitLab ](https://gitlab.com/buluma/ansible-role-bootstrap/badges/main/pipeline.svg)](https://gitlab.com/buluma/ansible-role-bootstrap)|
+|[buluma.cron](https://galaxy.ansible.com/buluma/cron)|[![Build Status GitHub](https://github.com/buluma/ansible-role-cron/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-cron/actions)|[![Build Status GitLab ](https://gitlab.com/buluma/ansible-role-cron/badges/main/pipeline.svg)](https://gitlab.com/buluma/ansible-role-cron)|
 |[robertdebock.postfix](https://galaxy.ansible.com/buluma/robertdebock.postfix)|[![Build Status GitHub](https://github.com/buluma/robertdebock.postfix/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/robertdebock.postfix/actions)|[![Build Status GitLab ](https://gitlab.com/buluma/robertdebock.postfix/badges/master/pipeline.svg)](https://gitlab.com/buluma/robertdebock.postfix)|
 
 ## [Context](#context)
