@@ -3,7 +3,7 @@
 # Ansible managed
 #
 
-name: Release to Ansible Galaxy
+name: Check Role Info
 
 on:
   push:
