@@ -31,7 +31,7 @@ The machine needs to be prepared. In CI this is done using `molecule/default/pre
   roles:
     - role: buluma.bootstrap
     - role: buluma.cron
-    - role: robertdebock.postfix
+    - role: buluma.postfix
       postfix_myhostname: "smtp.example.com"
       postfix_mydomain: "example.com"
       postfix_myorigin: "example.com"
@@ -51,7 +51,7 @@ The following roles are used to prepare a system. You can prepare your system in
 |-------------|--------|--------|
 |[buluma.bootstrap](https://galaxy.ansible.com/buluma/bootstrap)|[![Build Status GitHub](https://github.com/buluma/ansible-role-bootstrap/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-bootstrap/actions)|[![Build Status GitLab ](https://gitlab.com/buluma/ansible-role-bootstrap/badges/main/pipeline.svg)](https://gitlab.com/buluma/ansible-role-bootstrap)|
 |[buluma.cron](https://galaxy.ansible.com/buluma/cron)|[![Build Status GitHub](https://github.com/buluma/ansible-role-cron/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-cron/actions)|[![Build Status GitLab ](https://gitlab.com/buluma/ansible-role-cron/badges/main/pipeline.svg)](https://gitlab.com/buluma/ansible-role-cron)|
-|[robertdebock.postfix](https://galaxy.ansible.com/buluma/robertdebock.postfix)|[![Build Status GitHub](https://github.com/buluma/robertdebock.postfix/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/robertdebock.postfix/actions)|[![Build Status GitLab ](https://gitlab.com/buluma/robertdebock.postfix/badges/main/pipeline.svg)](https://gitlab.com/buluma/robertdebock.postfix)|
+|[buluma.postfix](https://galaxy.ansible.com/buluma/postfix)|[![Build Status GitHub](https://github.com/buluma/ansible-role-postfix/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-postfix/actions)|[![Build Status GitLab ](https://gitlab.com/buluma/ansible-role-postfix/badges/main/pipeline.svg)](https://gitlab.com/buluma/ansible-role-postfix)|
 
 ## [Context](#context)
 
