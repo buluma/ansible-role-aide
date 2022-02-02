@@ -18,8 +18,6 @@ molecule:
     matrix:
       - image: "amazonlinux"
         tag: "latest"
-      - image: "debian"
-        tag: "bullseye"
       - image: "fedora"
         tag: "34"
       - image: "fedora"
@@ -28,9 +26,7 @@ molecule:
         tag: "rawhide"
       - image: "ubuntu"
         tag: "latest"
-      - image: "ubuntu"
-        tag: "bionic"
 
 galaxy:
   script:
-    - ansible-galaxy role info ${CI_PROJECT_NAMESPACE}.${CI_PROJECT_NAME}
+    - ansible-galaxy role info ${CI_PROJECT_NAMESPACE}.aide
