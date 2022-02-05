@@ -7,7 +7,9 @@ name: Ansible Molecule
 
 on:
   push:
-    tags_ignore:
+    branches:
+      - '**'
+    tags-ignore:
       - '*'
   pull_request:
   schedule:
@@ -35,12 +37,22 @@ jobs:
         config:
           - image: "amazonlinux"
             tag: "latest"
+          - image: "enterpriselinux"
+            tag: "latest"
+          - image: "debian"
+            tag: "latest"
           - image: "fedora"
             tag: "34"
           - image: "fedora"
             tag: "latest"
           - image: "fedora"
             tag: "rawhide"
+          - image: "opensuse"
+            tag: "latest"
+          - image: "ubuntu"
+            tag: "latest"
+          - image: "ubuntu"
+            tag: "bionic"
     steps:
       - name: checkout
         uses: actions/checkout@v2

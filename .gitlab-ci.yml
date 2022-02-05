@@ -18,13 +18,22 @@ molecule:
     matrix:
       - image: "amazonlinux"
         tag: "latest"
+      - image: "enterpriselinux"
+        tag: "latest"
+      - image: "debian"
+        tag: "latest"
       - image: "fedora"
         tag: "34"
       - image: "fedora"
         tag: "latest"
       - image: "fedora"
         tag: "rawhide"
-      - image: "enterpriselinux"
+      - image: "opensuse"
+        tag: "latest"
+      - image: "ubuntu"
+        tag: "latest"
+      - image: "ubuntu"
+        tag: "bionic"
 
 testing:
   script:
@@ -36,13 +45,22 @@ testing:
     matrix:
       - image: "amazonlinux"
         tag: "latest"
+      - image: "enterpriselinux"
+        tag: "latest"
+      - image: "debian"
+        tag: "latest"
       - image: "fedora"
         tag: "34"
       - image: "fedora"
         tag: "latest"
       - image: "fedora"
         tag: "rawhide"
-      - image: "enterpriselinux"
+      - image: "opensuse"
+        tag: "latest"
+      - image: "ubuntu"
+        tag: "latest"
+      - image: "ubuntu"
+        tag: "bionic"
 
 galaxy:
   script:
