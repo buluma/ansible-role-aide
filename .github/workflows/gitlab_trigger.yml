@@ -16,7 +16,8 @@ jobs:
             message: Starting Ansible aide GitLab Trigger...
           if: always()
 
-        - uses: actions/checkout@v2.4.0
+        - name: Checkout
+          uses: actions/checkout@v2.4.0
         - name: Mirror + trigger CI
           uses: SvanBoxel/gitlab-mirror-and-ci-action@master
           with:
