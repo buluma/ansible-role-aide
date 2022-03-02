@@ -22,9 +22,9 @@ jobs:
         if: always()
       - uses: actions/checkout@v2.4.0
       - name: Mirror + trigger CI.
-        uses: SvanBoxel/gitlab-mirror-and-ci-action@master
+        uses: buluma/gitlab-mirror-ci-action@1.0.6
         with:
-          args: "buluma/ansible-role-aide"  # TODO: change originator
+          args: "buluma/ansible-role-aide"
         env:
           GITLAB_HOSTNAME: "gitlab.com"
           GITLAB_USERNAME: "buluma"
