@@ -1,7 +1,12 @@
 ---
+# TODO: Ch
 name: Mirror and run GitLab CI
 
 on: [push]
+
+concurrency:
+  group: ${{ github.ref }}-${{ github.workflow }}
+  cancel-in-progress: true
 
 jobs:
   build:
@@ -17,9 +22,9 @@ jobs:
         if: always()
       - uses: actions/checkout@v3
       - name: Mirror + trigger CI.
-        uses: SvanBoxel/gitlab-mirror-and-ci-action@master
+        uses: buluma/gitlab-mirror-ci-action@1.0.6
         with:
-          args: "buluma/ansible-role-moodle"
+          args: "buluma/ansible-role-aide"
         env:
           GITLAB_HOSTNAME: "gitlab.com"
           GITLAB_USERNAME: "buluma"
