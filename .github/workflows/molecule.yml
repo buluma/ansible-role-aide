@@ -29,7 +29,7 @@ jobs:
           message: Starting Ansible Aide GitLab Trigger...
         if: always()
       - name: checkout
-        uses: actions/checkout@v2.4.0
+        uses: actions/checkout@v3
         with:
           path: "${{ github.repository }}"
       - name: molecule
@@ -66,7 +66,7 @@ jobs:
             tag: "focal"
     steps:
       - name: checkout
-        uses: actions/checkout@v2.4.0
+        uses: actions/checkout@v3
         with:
           path: "${{ github.repository }}"
       - name: disable apparmor for mysql
