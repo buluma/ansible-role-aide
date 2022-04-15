@@ -94,7 +94,7 @@ If you find issues, please register them in [GitHub](https://github.com/buluma/a
 
 ## [Chagelog](#changelog)
 
-[Changelog](https://github.com/buluma/ansible-role-aide/blob/master/CHANGELOG.md).
+[Changelog](https://github.com/buluma/ansible-role-aide/blob/main/CHANGELOG.md).
 
 ## [License](#license)
 
