@@ -8,6 +8,10 @@
 
 [Full Changelog](https://github.com/buluma/ansible-role-aide/compare/v1.0.10...v1.0.11)
 
+**Merged pull requests:**
+
+- Bump buluma/galaxy-action from 1.0.3 to 1.1.0 [\#18](https://github.com/buluma/ansible-role-aide/pull/18) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [v1.0.10](https://github.com/buluma/ansible-role-aide/tree/v1.0.10) (2022-03-23)
 
 [Full Changelog](https://github.com/buluma/ansible-role-aide/compare/v1.0.9...v1.0.10)
@@ -23,6 +27,10 @@
 **Closed issues:**
 
 - Ch [\#14](https://github.com/buluma/ansible-role-aide/issues/14)
+
+**Merged pull requests:**
+
+- bump actions/checkout@v3 [\#16](https://github.com/buluma/ansible-role-aide/pull/16) ([buluma](https://github.com/buluma))
 
 ## [v1.0.7](https://github.com/buluma/ansible-role-aide/tree/v1.0.7) (2022-03-02)
 
@@ -52,7 +60,6 @@
 
 **Merged pull requests:**
 
-- Bump buluma/galaxy-action from 1.0.3 to 1.1.0 [\#18](https://github.com/buluma/ansible-role-aide/pull/18) ([dependabot[bot]](https://github.com/apps/dependabot))
 - molecule-action@v4.0.6/focal [\#8](https://github.com/buluma/ansible-role-aide/pull/8) ([buluma](https://github.com/buluma))
 
 ## [v1.0.4](https://github.com/buluma/ansible-role-aide/tree/v1.0.4) (2022-02-10)
@@ -61,7 +68,6 @@
 
 **Merged pull requests:**
 
-- bump actions/checkout@v3 [\#16](https://github.com/buluma/ansible-role-aide/pull/16) ([buluma](https://github.com/buluma))
 - Update .gitlab-ci.yml [\#7](https://github.com/buluma/ansible-role-aide/pull/7) ([buluma](https://github.com/buluma))
 
 ## [v1.0.3](https://github.com/buluma/ansible-role-aide/tree/v1.0.3) (2022-02-06)
