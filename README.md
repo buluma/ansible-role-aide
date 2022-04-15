@@ -92,7 +92,7 @@ Some roles can't run on a specific distribution or version. Here are some except
 
 If you find issues, please register them in [GitHub](https://github.com/buluma/ansible-role-aide/issues)
 
-## [Chagelog](#changelog)
+## [Changelog](#changelog)
 
 [Role History](https://github.com/buluma/ansible-role-aide/blob/main/CHANGELOG.md)
 
