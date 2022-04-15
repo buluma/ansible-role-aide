@@ -35,7 +35,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-  changelog_:
+  changelog_draft:
     runs-on: ubuntu-latest
 
     steps:
