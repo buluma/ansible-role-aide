@@ -10,7 +10,14 @@ on:
   schedule:
     - cron: '1 1 * * *'
   workflow_dispatch:
-  push: {branches: ["master", "main"]}
+  push:
+    branches:
+      - master
+      - main
+      - testing
+    paths-ignore:
+      - '**/README.md'
+      - '**/CHANGELOG.md'
 
 concurrency:
   group: ${{ github.ref }}-${{ github.workflow }}
