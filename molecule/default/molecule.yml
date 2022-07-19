@@ -16,7 +16,7 @@ driver:
 platforms:
   - name: "aide-${image:-docker-centos7-ansible}-${tag:-latest}${TOX_ENVNAME}"
     image: "${namespace:-buluma}/${image:-docker-centos7-ansible}:${tag:-latest}"
-    command: /sbin/init
+    command: ""
     volumes:
       - /sys/fs/cgroup:/sys/fs/cgroup:ro
     privileged: yes
