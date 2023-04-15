@@ -1,5 +1,15 @@
 # Changelog
 
+## [Unreleased](https://github.com/buluma/ansible-role-aide/tree/HEAD)
+
+[Full Changelog](https://github.com/buluma/ansible-role-aide/compare/v1.0.16...HEAD)
+
+**Merged pull requests:**
+
+- Bump buluma/gitlab-mirror-ci-action from 1.0.6 to 1.0.7 [\#23](https://github.com/buluma/ansible-role-aide/pull/23) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump buluma/molecule-action from 5.0.1 to 5.0.4 [\#22](https://github.com/buluma/ansible-role-aide/pull/22) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump act10ns/slack from 1 to 2 [\#21](https://github.com/buluma/ansible-role-aide/pull/21) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [v1.0.16](https://github.com/buluma/ansible-role-aide/tree/v1.0.16) (2022-09-10)
 
 [Full Changelog](https://github.com/buluma/ansible-role-aide/compare/v1.0.15...v1.0.16)
@@ -85,6 +95,7 @@
 **Merged pull requests:**
 
 - Update .gitlab-ci.yml [\#7](https://github.com/buluma/ansible-role-aide/pull/7) ([buluma](https://github.com/buluma))
+- Bump actions/checkout from 1 to 2.4.0 [\#2](https://github.com/buluma/ansible-role-aide/pull/2) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [v1.0.3](https://github.com/buluma/ansible-role-aide/tree/v1.0.3) (2022-02-06)
 
@@ -103,7 +114,6 @@
 - test systemd images [\#5](https://github.com/buluma/ansible-role-aide/pull/5) ([buluma](https://github.com/buluma))
 - Bump alstr/todo-to-issue-action from 2.3 to 4.6 [\#4](https://github.com/buluma/ansible-role-aide/pull/4) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump buluma/galaxy-action from 1.0.1 to 1.1.0 [\#3](https://github.com/buluma/ansible-role-aide/pull/3) ([dependabot[bot]](https://github.com/apps/dependabot))
-- Bump actions/checkout from 1 to 2.4.0 [\#2](https://github.com/buluma/ansible-role-aide/pull/2) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Test enterpriselinux [\#1](https://github.com/buluma/ansible-role-aide/pull/1) ([buluma](https://github.com/buluma))
 
 ## [v1.0.1](https://github.com/buluma/ansible-role-aide/tree/v1.0.1) (2022-02-02)
