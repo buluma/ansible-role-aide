@@ -8,7 +8,7 @@ Install and configure aide on your system.
 
 ## [Example Playbook](#example-playbook)
 
-This example is taken from [`molecule/default/converge.yml`](https://github.com/buluma/ansible-role-aide/blob/master/molecule/default/converge.yml) and is tested on each push, pull request and release.
+This example is taken from [`molecule/default/converge.yml`](https://github.com/buluma/ansible-role-aide/blob/main/molecule/default/converge.yml) and is tested on each push, pull request and release.
 
 ```yaml
 ---
@@ -21,7 +21,7 @@ This example is taken from [`molecule/default/converge.yml`](https://github.com/
     - role: buluma.aide
 ```
 
-The machine needs to be prepared. In CI this is done using [`molecule/default/prepare.yml`](https://github.com/buluma/ansible-role-aide/blob/master/molecule/default/prepare.yml):
+The machine needs to be prepared. In CI this is done using [`molecule/default/prepare.yml`](https://github.com/buluma/ansible-role-aide/blob/main/molecule/default/prepare.yml):
 
 ```yaml
 ---
@@ -44,7 +44,7 @@ Also see a [full explanation and example](https://buluma.github.io/how-to-use-th
 
 ## [Requirements](#requirements)
 
-- pip packages listed in [requirements.txt](https://github.com/buluma/ansible-role-aide/blob/master/requirements.txt).
+- pip packages listed in [requirements.txt](https://github.com/buluma/ansible-role-aide/blob/main/requirements.txt).
 
 ## [State of used roles](#state-of-used-roles)
 
@@ -53,8 +53,8 @@ The following roles are used to prepare a system. You can prepare your system in
 | Requirement | GitHub | GitLab |
 |-------------|--------|--------|
 |[buluma.bootstrap](https://galaxy.ansible.com/buluma/bootstrap)|[![Build Status GitHub](https://github.com/buluma/ansible-role-bootstrap/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-bootstrap/actions)|[![Build Status GitLab](https://gitlab.com/shadowwalker/ansible-role-bootstrap/badges/master/pipeline.svg)](https://gitlab.com/shadowwalker/ansible-role-bootstrap)|
-|[buluma.cron](https://galaxy.ansible.com/buluma/cron)|[![Build Status GitHub](https://github.com/buluma/ansible-role-cron/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-cron/actions)|[![Build Status GitLab](https://gitlab.com/shadowwalker/ansible-role-cron/badges/master/pipeline.svg)](https://gitlab.com/shadowwalker/ansible-role-cron)|
-|[buluma.postfix](https://galaxy.ansible.com/buluma/postfix)|[![Build Status GitHub](https://github.com/buluma/ansible-role-postfix/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-postfix/actions)|[![Build Status GitLab](https://gitlab.com/shadowwalker/ansible-role-postfix/badges/master/pipeline.svg)](https://gitlab.com/shadowwalker/ansible-role-postfix)|
+|[buluma.cron](https://galaxy.ansible.com/buluma/cron)|[![Build Status GitHub](https://github.com/buluma/ansible-role-cron/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-cron/actions)|[![Build Status GitLab](https://gitlab.com/shadowwalker/ansible-role-cron/badges/main/pipeline.svg)](https://gitlab.com/shadowwalker/ansible-role-cron)|
+|[buluma.postfix](https://galaxy.ansible.com/buluma/postfix)|[![Build Status GitHub](https://github.com/buluma/ansible-role-postfix/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-postfix/actions)|[![Build Status GitLab](https://gitlab.com/shadowwalker/ansible-role-postfix/badges/main/pipeline.svg)](https://gitlab.com/shadowwalker/ansible-role-postfix)|
 
 ## [Context](#context)
 
@@ -86,11 +86,11 @@ If you find issues, please register them in [GitHub](https://github.com/buluma/a
 
 ## [Changelog](#changelog)
 
-[Role History](https://github.com/buluma/ansible-role-aide/blob/master/CHANGELOG.md)
+[Role History](https://github.com/buluma/ansible-role-aide/blob/main/CHANGELOG.md)
 
 ## [License](#license)
 
-[Apache-2.0](https://github.com/buluma/ansible-role-aide/blob/master/LICENSE).
+[Apache-2.0](https://github.com/buluma/ansible-role-aide/blob/main/LICENSE).
 
 ## [Author Information](#author-information)
 
