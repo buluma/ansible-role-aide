@@ -84,6 +84,10 @@ The minimum version of Ansible required is 2.10, tests have been done to:
 
 If you find issues, please register them in [GitHub](https://github.com/buluma/ansible-role-aide/issues)
 
+## [Changelog](#changelog)
+
+[Role History](https://github.com/buluma/ansible-role-aide/blob/master/CHANGELOG.md)
+
 ## [License](#license)
 
 [Apache-2.0](https://github.com/buluma/ansible-role-aide/blob/master/LICENSE).
@@ -93,3 +97,7 @@ If you find issues, please register them in [GitHub](https://github.com/buluma/a
 [buluma](https://buluma.github.io/)
 
 Please consider [sponsoring me](https://github.com/sponsors/buluma).
+
+### [Special Thanks](#special-thanks)
+
+Template inspired by [Robert de Bock](https://github.com/robertdebock)
