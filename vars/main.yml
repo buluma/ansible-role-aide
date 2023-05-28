@@ -8,7 +8,7 @@ _aide_init_command:
   default: aide --init
   Debian: aideinit
 
-aide_init_command: "{{ _aide_init_command[ansible_os_family] | default(_aide_init_command['default'] ) }}"
+aide_init_command: "{{ _aide_init_command[ansible_os_family] | default(_aide_init_command['default']) }}"
 
 _aide_db_new:
   default: /var/lib/aide/aide.db.new.gz
