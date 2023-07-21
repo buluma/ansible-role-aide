@@ -102,6 +102,7 @@
 **Merged pull requests:**
 
 - Testing [\#13](https://github.com/buluma/ansible-role-aide/pull/13) ([buluma](https://github.com/buluma))
+- Bump actions/checkout from 2.4.0 to 3 [\#12](https://github.com/buluma/ansible-role-aide/pull/12) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [v1.0.6](https://github.com/buluma/ansible-role-aide/tree/v1.0.6) (2022-02-17)
 
@@ -141,7 +142,6 @@
 
 **Merged pull requests:**
 
-- Bump actions/checkout from 2.4.0 to 3 [\#12](https://github.com/buluma/ansible-role-aide/pull/12) ([dependabot[bot]](https://github.com/apps/dependabot))
 - test systemd images [\#5](https://github.com/buluma/ansible-role-aide/pull/5) ([buluma](https://github.com/buluma))
 - Bump alstr/todo-to-issue-action from 2.3 to 4.6 [\#4](https://github.com/buluma/ansible-role-aide/pull/4) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump buluma/galaxy-action from 1.0.1 to 1.1.0 [\#3](https://github.com/buluma/ansible-role-aide/pull/3) ([dependabot[bot]](https://github.com/apps/dependabot))
