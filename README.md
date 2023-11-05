@@ -2,9 +2,9 @@
 
 Install and configure aide on your system.
 
-|GitHub|GitLab|Quality|Downloads|Version|Issues|Pull Requests|
-|------|------|-------|---------|-------|------|-------------|
-|[![github](https://github.com/buluma/ansible-role-aide/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-aide/actions)|[![gitlab](https://gitlab.com/shadowwalker/ansible-role-aide/badges/master/pipeline.svg)](https://gitlab.com/shadowwalker/ansible-role-aide)|[![quality](https://img.shields.io/ansible/quality/57839)](https://galaxy.ansible.com/buluma/aide)|[![downloads](https://img.shields.io/ansible/role/d/57839)](https://galaxy.ansible.com/buluma/aide)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-aide.svg)](https://github.com/buluma/ansible-role-aide/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-aide.svg)](https://github.com/buluma/ansible-role-aide/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-aide.svg)](https://github.com/buluma/ansible-role-aide/pulls/)|
+|GitHub|GitLab|Downloads|Version|Issues|Pull Requests|
+|------|------|-------|-------|------|-------------|
+|[![github](https://github.com/buluma/ansible-role-aide/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-aide/actions)|[![gitlab](https://gitlab.com/shadowwalker/ansible-role-aide/badges/master/pipeline.svg)](https://gitlab.com/shadowwalker/ansible-role-aide)|[![downloads](https://img.shields.io/ansible/role/d/4633)](https://galaxy.ansible.com/buluma/aide)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-aide.svg)](https://github.com/buluma/ansible-role-aide/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-aide.svg)](https://github.com/buluma/ansible-role-aide/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-aide.svg)](https://github.com/buluma/ansible-role-aide/pulls/)|
 
 ## [Example Playbook](#example-playbook)
 
