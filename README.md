@@ -1,10 +1,10 @@
-# [Ansible role aide](#aide)
+# Ansible role [aide](https://galaxy.ansible.com/ui/standalone/roles/buluma/aide/documentation)
 
 Install and configure aide on your system.
 
-|GitHub|Version|Issues|Pull Requests|
-|------|-------|------|-------------|
-|[![github](https://github.com/buluma/ansible-role-aide/actions/workflows/molecule.yml/badge.svg)](https://github.com/buluma/ansible-role-aide/actions/workflows/molecule.yml)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-aide.svg)](https://github.com/buluma/ansible-role-aide/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-aide.svg)](https://github.com/buluma/ansible-role-aide/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-aide.svg)](https://github.com/buluma/ansible-role-aide/pulls/)|
+|GitHub|Version|Issues|Pull Requests|Downloads|
+|------|-------|------|-------------|---------|
+|[![github](https://github.com/buluma/ansible-role-aide/actions/workflows/molecule.yml/badge.svg)](https://github.com/buluma/ansible-role-aide/actions/workflows/molecule.yml)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-aide.svg)](https://github.com/buluma/ansible-role-aide/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-aide.svg)](https://github.com/buluma/ansible-role-aide/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-aide.svg)](https://github.com/buluma/ansible-role-aide/pulls/)|[![Ansible Role](https://img.shields.io/ansible/role/d/buluma/aide)](https://galaxy.ansible.com/ui/standalone/roles/buluma/aide/documentation)|
 
 ## [Example Playbook](#example-playbook)
 
