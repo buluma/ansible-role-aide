@@ -125,7 +125,7 @@
 
 **Merged pull requests:**
 
-- bump actions/checkout@v4 [\#16](https://github.com/buluma/ansible-role-aide/pull/16) ([buluma](https://github.com/buluma))
+- bump actions/checkout@v3 [\#16](https://github.com/buluma/ansible-role-aide/pull/16) ([buluma](https://github.com/buluma))
 
 ## [v1.0.7](https://github.com/buluma/ansible-role-aide/tree/v1.0.7) (2022-03-02)
 
