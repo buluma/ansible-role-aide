@@ -1,5 +1,9 @@
 # Changelog
 
+## [v2.1.0](https://github.com/buluma/ansible-role-aide/tree/v2.1.0) (2024-01-02)
+
+[Full Changelog](https://github.com/buluma/ansible-role-aide/compare/v2.0.7...v2.1.0)
+
 ## [v2.0.7](https://github.com/buluma/ansible-role-aide/tree/v2.0.7) (2024-01-02)
 
 [Full Changelog](https://github.com/buluma/ansible-role-aide/compare/v2.0.6...v2.0.7)
