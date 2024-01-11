@@ -1,5 +1,13 @@
 # Changelog
 
+## [Unreleased](https://github.com/buluma/ansible-role-aide/tree/HEAD)
+
+[Full Changelog](https://github.com/buluma/ansible-role-aide/compare/v2.2.0...HEAD)
+
+**Merged pull requests:**
+
+- Bump pascalgn/automerge-action from 0.16.0 to 0.16.2 [\#44](https://github.com/buluma/ansible-role-aide/pull/44) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [v2.2.0](https://github.com/buluma/ansible-role-aide/tree/v2.2.0) (2024-01-10)
 
 [Full Changelog](https://github.com/buluma/ansible-role-aide/compare/v2.1.0...v2.2.0)
