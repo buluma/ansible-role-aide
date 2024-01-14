@@ -1,8 +1,8 @@
 # Changelog
 
-## [Unreleased](https://github.com/buluma/ansible-role-aide/tree/HEAD)
+## [v2.3.0](https://github.com/buluma/ansible-role-aide/tree/v2.3.0) (2024-01-11)
 
-[Full Changelog](https://github.com/buluma/ansible-role-aide/compare/v2.2.0...HEAD)
+[Full Changelog](https://github.com/buluma/ansible-role-aide/compare/v2.2.0...v2.3.0)
 
 **Merged pull requests:**
 
