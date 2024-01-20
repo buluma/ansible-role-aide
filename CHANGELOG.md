@@ -1,5 +1,13 @@
 # Changelog
 
+## [Unreleased](https://github.com/buluma/ansible-role-aide/tree/HEAD)
+
+[Full Changelog](https://github.com/buluma/ansible-role-aide/compare/v2.3.0...HEAD)
+
+**Merged pull requests:**
+
+- Bump buluma/molecule-action from 6.0.0 to 6.0.1 [\#45](https://github.com/buluma/ansible-role-aide/pull/45) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [v2.3.0](https://github.com/buluma/ansible-role-aide/tree/v2.3.0) (2024-01-11)
 
 [Full Changelog](https://github.com/buluma/ansible-role-aide/compare/v2.2.0...v2.3.0)
