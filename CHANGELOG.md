@@ -1,5 +1,13 @@
 # Changelog
 
+## [Unreleased](https://github.com/buluma/ansible-role-aide/tree/HEAD)
+
+[Full Changelog](https://github.com/buluma/ansible-role-aide/compare/v24.2.0...HEAD)
+
+**Merged pull requests:**
+
+- Bump buluma/dependabot-auto-merge-action from 2.1.1 to 2.1.2 [\#47](https://github.com/buluma/ansible-role-aide/pull/47) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [v24.2.0](https://github.com/buluma/ansible-role-aide/tree/v24.2.0) (2024-02-17)
 
 [Full Changelog](https://github.com/buluma/ansible-role-aide/compare/v2.4.0...v24.2.0)
