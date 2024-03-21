@@ -8,10 +8,6 @@ galaxy_info:
   min_ansible_version: "2.12"
 
   platforms:
-    - name: Amazon
-      versions:
-        - "2018.03"
-        - "2023"
     - name: EL
       versions:
         - "8"
