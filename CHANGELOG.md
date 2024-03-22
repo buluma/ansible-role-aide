@@ -182,7 +182,6 @@
 
 **Merged pull requests:**
 
-- Testing [\#13](https://github.com/buluma/ansible-role-aide/pull/13) ([buluma](https://github.com/buluma))
 - Bump actions/checkout from 2.4.0 to 3 [\#12](https://github.com/buluma/ansible-role-aide/pull/12) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [v1.0.6](https://github.com/buluma/ansible-role-aide/tree/v1.0.6) (2022-02-17)
@@ -207,6 +206,7 @@
 
 **Merged pull requests:**
 
+- Testing [\#13](https://github.com/buluma/ansible-role-aide/pull/13) ([buluma](https://github.com/buluma))
 - Update .gitlab-ci.yml [\#7](https://github.com/buluma/ansible-role-aide/pull/7) ([buluma](https://github.com/buluma))
 
 ## [v1.0.3](https://github.com/buluma/ansible-role-aide/tree/v1.0.3) (2022-02-06)
