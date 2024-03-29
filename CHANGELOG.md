@@ -184,6 +184,7 @@
 **Merged pull requests:**
 
 - Testing [\#13](https://github.com/buluma/ansible-role-aide/pull/13) ([buluma](https://github.com/buluma))
+- Bump actions/checkout from 2.4.0 to 3 [\#12](https://github.com/buluma/ansible-role-aide/pull/12) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [v1.0.6](https://github.com/buluma/ansible-role-aide/tree/v1.0.6) (2022-02-17)
 
@@ -199,7 +200,6 @@
 
 **Merged pull requests:**
 
-- Bump actions/checkout from 2.4.0 to 3 [\#12](https://github.com/buluma/ansible-role-aide/pull/12) ([dependabot[bot]](https://github.com/apps/dependabot))
 - molecule-action@v4.0.6/focal [\#8](https://github.com/buluma/ansible-role-aide/pull/8) ([buluma](https://github.com/buluma))
 
 ## [v1.0.4](https://github.com/buluma/ansible-role-aide/tree/v1.0.4) (2022-02-10)
