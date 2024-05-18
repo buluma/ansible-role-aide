@@ -23,6 +23,10 @@
 
 [Full Changelog](https://github.com/buluma/ansible-role-aide/compare/v2.4.0...v24.2.0)
 
+**Merged pull requests:**
+
+- Bump release-drafter/release-drafter from 5 to 6 [\#46](https://github.com/buluma/ansible-role-aide/pull/46) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [v2.4.0](https://github.com/buluma/ansible-role-aide/tree/v2.4.0) (2024-01-20)
 
 [Full Changelog](https://github.com/buluma/ansible-role-aide/compare/v2.3.0...v2.4.0)
@@ -30,14 +34,11 @@
 **Merged pull requests:**
 
 - Bump buluma/molecule-action from 6.0.0 to 6.0.1 [\#45](https://github.com/buluma/ansible-role-aide/pull/45) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump pascalgn/automerge-action from 0.16.0 to 0.16.2 [\#44](https://github.com/buluma/ansible-role-aide/pull/44) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [v2.3.0](https://github.com/buluma/ansible-role-aide/tree/v2.3.0) (2024-01-11)
 
 [Full Changelog](https://github.com/buluma/ansible-role-aide/compare/v2.2.0...v2.3.0)
-
-**Merged pull requests:**
-
-- Bump pascalgn/automerge-action from 0.16.0 to 0.16.2 [\#44](https://github.com/buluma/ansible-role-aide/pull/44) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [v2.2.0](https://github.com/buluma/ansible-role-aide/tree/v2.2.0) (2024-01-10)
 
@@ -94,7 +95,6 @@
 
 **Merged pull requests:**
 
-- Bump release-drafter/release-drafter from 5 to 6 [\#46](https://github.com/buluma/ansible-role-aide/pull/46) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump alstr/todo-to-issue-action from 2.3 to 4.10 [\#30](https://github.com/buluma/ansible-role-aide/pull/30) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [v2.0.1](https://github.com/buluma/ansible-role-aide/tree/v2.0.1) (2023-05-28)
