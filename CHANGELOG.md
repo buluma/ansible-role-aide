@@ -133,6 +133,7 @@
 - Bump buluma/gitlab-mirror-ci-action from 1.0.6 to 1.0.7 [\#23](https://github.com/buluma/ansible-role-aide/pull/23) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump buluma/molecule-action from 5.0.1 to 5.0.4 [\#22](https://github.com/buluma/ansible-role-aide/pull/22) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump act10ns/slack from 1 to 2 [\#21](https://github.com/buluma/ansible-role-aide/pull/21) ([dependabot[bot]](https://github.com/apps/dependabot))
+- molecule-action@v4.0.6/focal [\#8](https://github.com/buluma/ansible-role-aide/pull/8) ([buluma](https://github.com/buluma))
 
 ## [v1.0.16](https://github.com/buluma/ansible-role-aide/tree/v1.0.16) (2022-09-10)
 
@@ -207,10 +208,6 @@
 ## [v1.0.5](https://github.com/buluma/ansible-role-aide/tree/v1.0.5) (2022-02-12)
 
 [Full Changelog](https://github.com/buluma/ansible-role-aide/compare/v1.0.4...v1.0.5)
-
-**Merged pull requests:**
-
-- molecule-action@v4.0.6/focal [\#8](https://github.com/buluma/ansible-role-aide/pull/8) ([buluma](https://github.com/buluma))
 
 ## [v1.0.4](https://github.com/buluma/ansible-role-aide/tree/v1.0.4) (2022-02-10)
 
