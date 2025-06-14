@@ -1,5 +1,7 @@
 ---
-#
-# Ansible managed
-#
-tox_parallel: true
+
+matrix_overrides:
+  amazonlinux:
+    python:
+      - python:3.9
+      - python:3.10
