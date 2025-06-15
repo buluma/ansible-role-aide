@@ -158,10 +158,6 @@
 
 [Full Changelog](https://github.com/buluma/ansible-role-aide/compare/v1.0.10...v1.0.11)
 
-**Merged pull requests:**
-
-- Bump buluma/galaxy-action from 1.0.3 to 1.1.0 [\#18](https://github.com/buluma/ansible-role-aide/pull/18) ([dependabot[bot]](https://github.com/apps/dependabot))
-
 ## [v1.0.10](https://github.com/buluma/ansible-role-aide/tree/v1.0.10) (2022-03-23)
 
 [Full Changelog](https://github.com/buluma/ansible-role-aide/compare/v1.0.9...v1.0.10)
@@ -193,6 +189,7 @@
 
 **Merged pull requests:**
 
+- Bump buluma/galaxy-action from 1.0.3 to 1.1.0 [\#18](https://github.com/buluma/ansible-role-aide/pull/18) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Testing [\#13](https://github.com/buluma/ansible-role-aide/pull/13) ([buluma](https://github.com/buluma))
 - Bump actions/checkout from 2.4.0 to 3 [\#12](https://github.com/buluma/ansible-role-aide/pull/12) ([dependabot[bot]](https://github.com/apps/dependabot))
 
