@@ -46,8 +46,6 @@ jobs:
             tag: "jammy"
           - image: "docker-molecule-images"
             tag: "noble"
-          - image: "docker-molecule-images"
-            tag: "plucky"
     steps:
       - name: checkout
         uses: actions/checkout@v4
