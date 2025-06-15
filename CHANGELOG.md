@@ -131,7 +131,6 @@
 **Merged pull requests:**
 
 - Bump buluma/gitlab-mirror-ci-action from 1.0.6 to 1.0.7 [\#23](https://github.com/buluma/ansible-role-aide/pull/23) ([dependabot[bot]](https://github.com/apps/dependabot))
-- Bump buluma/molecule-action from 5.0.1 to 5.0.4 [\#22](https://github.com/buluma/ansible-role-aide/pull/22) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump act10ns/slack from 1 to 2 [\#21](https://github.com/buluma/ansible-role-aide/pull/21) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [v1.0.16](https://github.com/buluma/ansible-role-aide/tree/v1.0.16) (2022-09-10)
@@ -157,6 +156,10 @@
 ## [v1.0.11](https://github.com/buluma/ansible-role-aide/tree/v1.0.11) (2022-03-31)
 
 [Full Changelog](https://github.com/buluma/ansible-role-aide/compare/v1.0.10...v1.0.11)
+
+**Merged pull requests:**
+
+- Bump buluma/galaxy-action from 1.0.3 to 1.1.0 [\#18](https://github.com/buluma/ansible-role-aide/pull/18) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [v1.0.10](https://github.com/buluma/ansible-role-aide/tree/v1.0.10) (2022-03-23)
 
@@ -189,7 +192,6 @@
 
 **Merged pull requests:**
 
-- Bump buluma/galaxy-action from 1.0.3 to 1.1.0 [\#18](https://github.com/buluma/ansible-role-aide/pull/18) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Testing [\#13](https://github.com/buluma/ansible-role-aide/pull/13) ([buluma](https://github.com/buluma))
 - Bump actions/checkout from 2.4.0 to 3 [\#12](https://github.com/buluma/ansible-role-aide/pull/12) ([dependabot[bot]](https://github.com/apps/dependabot))
 
@@ -215,6 +217,7 @@
 
 **Merged pull requests:**
 
+- Bump buluma/molecule-action from 5.0.1 to 5.0.4 [\#22](https://github.com/buluma/ansible-role-aide/pull/22) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Update .gitlab-ci.yml [\#7](https://github.com/buluma/ansible-role-aide/pull/7) ([buluma](https://github.com/buluma))
 
 ## [v1.0.3](https://github.com/buluma/ansible-role-aide/tree/v1.0.3) (2022-02-06)
