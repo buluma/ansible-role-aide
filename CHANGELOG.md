@@ -32,6 +32,7 @@
 
 - Bump dependabot/fetch-metadata from 1 to 2 [\#50](https://github.com/buluma/ansible-role-aide/pull/50) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump buluma/dependabot-auto-merge-action from 2.1.1 to 2.1.2 [\#47](https://github.com/buluma/ansible-role-aide/pull/47) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump actions/checkout from 3 to 4 [\#41](https://github.com/buluma/ansible-role-aide/pull/41) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [v24.2.0](https://github.com/buluma/ansible-role-aide/tree/v24.2.0) (2024-02-17)
 
@@ -72,10 +73,6 @@
 ## [v2.0.7](https://github.com/buluma/ansible-role-aide/tree/v2.0.7) (2024-01-02)
 
 [Full Changelog](https://github.com/buluma/ansible-role-aide/compare/v2.0.6...v2.0.7)
-
-**Merged pull requests:**
-
-- Bump actions/checkout from 3 to 4 [\#41](https://github.com/buluma/ansible-role-aide/pull/41) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [v2.0.6](https://github.com/buluma/ansible-role-aide/tree/v2.0.6) (2023-12-27)
 
