@@ -9,6 +9,11 @@
 - Update action [\#38](https://github.com/buluma/ansible-role-aide/issues/38)
 - rebuild action [\#37](https://github.com/buluma/ansible-role-aide/issues/37)
 
+**Merged pull requests:**
+
+- Bump pascalgn/automerge-action from 0.16.3 to 0.16.4 [\#56](https://github.com/buluma/ansible-role-aide/pull/56) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump actions/checkout from 4 to 6 [\#55](https://github.com/buluma/ansible-role-aide/pull/55) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [v24.7.12](https://github.com/buluma/ansible-role-aide/tree/v24.7.12) (2024-07-12)
 
 [Full Changelog](https://github.com/buluma/ansible-role-aide/compare/v24.3.31...v24.7.12)
