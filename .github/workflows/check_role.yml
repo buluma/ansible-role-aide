@@ -8,7 +8,7 @@ name: Check Role Info
 on:
   push:
     paths:
-      - '.github/workflows/check_role.yml'
+      - ".github/workflows/check_role.yml"
   workflow_dispatch:
 
 jobs:
