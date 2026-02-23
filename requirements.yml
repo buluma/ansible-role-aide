@@ -1,7 +1,7 @@
 ---
 roles:
-  - name: buluma.bootstrap
-  - name: buluma.cron
-  - name: buluma.postfix
+- name: buluma.bootstrap
+- name: buluma.cron
+- name: buluma.postfix
 collections:
-  - name: community.general
+- name: community.general
