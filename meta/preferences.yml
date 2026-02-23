@@ -1,4 +1,3 @@
----
 matrix_overrides:
   amazonlinux:
     python:
