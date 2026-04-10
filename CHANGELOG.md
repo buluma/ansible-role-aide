@@ -210,14 +210,11 @@
 
 - Testing [\#13](https://github.com/buluma/ansible-role-aide/pull/13) ([buluma](https://github.com/buluma))
 - Bump actions/checkout from 2.4.0 to 3 [\#12](https://github.com/buluma/ansible-role-aide/pull/12) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Testing [\#9](https://github.com/buluma/ansible-role-aide/pull/9) ([buluma](https://github.com/buluma))
 
 ## [v1.0.6](https://github.com/buluma/ansible-role-aide/tree/v1.0.6) (2022-02-17)
 
 [Full Changelog](https://github.com/buluma/ansible-role-aide/compare/v1.0.5...v1.0.6)
-
-**Merged pull requests:**
-
-- Testing [\#9](https://github.com/buluma/ansible-role-aide/pull/9) ([buluma](https://github.com/buluma))
 
 ## [v1.0.5](https://github.com/buluma/ansible-role-aide/tree/v1.0.5) (2022-02-12)
 
