@@ -109,7 +109,6 @@
 
 **Merged pull requests:**
 
-- Bump actions/checkout from 3 to 4 [\#41](https://github.com/buluma/ansible-role-aide/pull/41) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump alstr/todo-to-issue-action from 2.3 to 4.10 [\#30](https://github.com/buluma/ansible-role-aide/pull/30) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [v2.0.1](https://github.com/buluma/ansible-role-aide/tree/v2.0.1) (2023-05-28)
@@ -142,6 +141,7 @@
 
 **Merged pull requests:**
 
+- Bump actions/checkout from 3 to 4 [\#41](https://github.com/buluma/ansible-role-aide/pull/41) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump buluma/gitlab-mirror-ci-action from 1.0.6 to 1.0.7 [\#23](https://github.com/buluma/ansible-role-aide/pull/23) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump buluma/molecule-action from 5.0.1 to 5.0.4 [\#22](https://github.com/buluma/ansible-role-aide/pull/22) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump act10ns/slack from 1 to 2 [\#21](https://github.com/buluma/ansible-role-aide/pull/21) ([dependabot[bot]](https://github.com/apps/dependabot))
